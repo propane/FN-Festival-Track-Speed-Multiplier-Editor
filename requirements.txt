@@ -1,2 +1,2 @@
 pywin32
-pysimplegui
+PySimpleGUI==4.18.1
